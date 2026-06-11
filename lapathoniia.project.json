@@ -1,0 +1,12 @@
+{
+  "name": "Lapathoniia Validation Test",
+  "team": "Lapathoniia QA",
+  "description_uk": "Тестовий проєкт для автоматичної перевірки форми екосистеми та валідації GitHub-репозиторіїв.",
+  "description_en": "A test project for automated ecosystem form checks and GitHub repository validation.",
+  "website": "https://lapathoniia.top",
+  "demo": "https://chat.lapathoniia.top",
+  "github": "https://github.com/Lapathoniia/ecosystem-validation-test-project",
+  "logo": "assets/logo.svg",
+  "cover": "assets/cover.svg",
+  "contact_email": "info@lapathoniia.top"
+}
